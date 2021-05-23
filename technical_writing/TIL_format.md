@@ -11,29 +11,27 @@ The audience and purpose determine the format of technical writing. Technical ar
 * An in-depth examination of a technical concept: "What is Machine Learning?"
 * A comprehensive resource round-up: "The Best Resources for Learning AI, Machine Learning, and Data Science from the Ground Up."
 
-
 **TIL (Today I Learned)** is a great format to get started when overwhelmed by where to start. This format of writing helps in sharing and documenting the things learned on a daily basis. If you learn something that is small, simply write down the problem you have resolved and the solution you have identified and publish.
 
+The general format of **TIL** is as follows:
 
- The general format of **TIL** is as follows:
-1.  Introduction: Two or three phrases that describe the problem.
-2.  Body: A couple of phrases about the solution and how you came.
-3.  Final solution: Share tiny snippets of code here, which are easy to copy and paste.
-4.  Conclusion: One or two phrases to reclaim the problem and solution by linking to social media handle or shouting at the end of your newsletter.
+1. Introduction: Two or three phrases that describe the problem.
+2. Body: A couple of phrases about the solution and how you came.
+3. Final solution: Share tiny snippets of code here, which are easy to copy and paste.
+4. Conclusion: One or two phrases to reclaim the problem and solution by linking to social media handle or shouting at the end of your newsletter.
 
- TIL format has numerous benefits. At the outset, it is essential to keep a record of the issues encountered with possible solutions on a daily basis. Other people also benefit from it. This format helps to collect seemingly small things that have a significant impact. The solution to a problem is forgotten over time, so it's essential to document these issues as they occur.
+TIL format has numerous benefits. At the outset, it is essential to keep a record of the issues encountered with possible solutions on a daily basis. Other people also benefit from it. This format helps to collect seemingly small things that have a significant impact. The solution to a problem is forgotten over time, so it's essential to document these issues as they occur.
 
- It offers you a hard-to-change article that you can return to and insert at a later date. You may discover that people will keep on asking you to explain things. The article can be re-written, and the next time you remember it, you can make an update.
+It offers you a hard-to-change article that you can return to and insert at a later date. You may discover that people will keep on asking you to explain things. The article can be re-written, and the next time you remember it, you can make an update.
 
- In the end, technical writing, editing, and publishing become better skills. Focus on getting the content out there, even if the article's length may be an issue.
+In the end, technical writing, editing, and publishing become better skills. Focus on getting the content out there, even if the article's length may be an issue.
 
-# Technical Writing Resources 
+# Technical Writing Resources
 
 For writing, here are some of the resources:
 
-* [Technical Writing Courses](https://developers.google.com/tech-writing/overview) - This learning collection consists of courses and other resources from Google, that are meant to help you with technical documentation. Master the fundamentals of document planning and authoring. 
+* [Technical Writing Courses](https://developers.google.com/tech-writing/overview) - This learning collection consists of courses and other resources from Google, that are meant to help you with technical documentation. Master the fundamentals of document planning and authoring.
 
 ---
 
-This artiele is also pubshed in the HackMD platform and can be accessed from the link https://hackmd.io/@5nzOYLvzRjiFLWiQ_OYhUg/BkLS3_Dtd
-
+This article is also pubshed in the HackMD platform and can be accessed [from the link] (https://hackmd.io/@5nzOYLvzRjiFLWiQ_OYhUg/BkLS3_Dtd

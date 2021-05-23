@@ -22,7 +22,7 @@ A collection of software engineering tips that I learn every day.
 - [Test1](meta/test1.md)
 - [Test2](meta/test2.md)
 
-### technical_writing
+### Technical Writing
 
 - [Til_format](technical_writing/TIL_format.md)
 

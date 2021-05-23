@@ -11,10 +11,6 @@ A collection of software engineering tips that I learn every day.
 
 - [Github Actions](github/github-actions.md)
 
-### images
-
-- [Enable_developermode_safari](images/enable_developermode_safari.png)
-
 ### macos
 
 - [One Button Do Not Disturb](macos/one-button-do-not-disturb.md)

@@ -28,8 +28,11 @@ def main():
                 except ValueError:
                     pass
             continue
-
+       
         category = os.path.basename(root)
+        # Ignore the folder images
+        if category=='images':
+            continue
 
         content += "### {}\n\n".format(category)
 

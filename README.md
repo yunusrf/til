@@ -2,6 +2,9 @@
 
 A collection of software engineering tips that I learn every day.
 
+### github
+
+- [Github Actions](github/github-actions.md)
 ### macos
 
 - [Enabling_developer_tools_in_safari](macos/enabling_developer_tools_in_safari.md)

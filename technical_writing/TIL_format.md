@@ -1,5 +1,7 @@
 # How to Begin Technical Writing - TIL (Today I Learned) format
 
+###### Tags: `Technical Writing`, `TIL` `Today I Learned`
+
 As a form of communication, technical writing attempts to make the ideas in a technical field (like programming or software development) as clear and concise as possible, especially when communicating with other experts and people outside that field.
 
 The audience and purpose determine the format of technical writing. Technical articles are typically written in several forms.
@@ -24,3 +26,14 @@ The audience and purpose determine the format of technical writing. Technical ar
  It offers you a hard-to-change article that you can return to and insert at a later date. You may discover that people will keep on asking you to explain things. The article can be re-written, and the next time you remember it, you can make an update.
 
  In the end, technical writing, editing, and publishing become better skills. Focus on getting the content out there, even if the article's length may be an issue.
+
+# Technical Writing Resources 
+
+For writing, here are some of the resources:
+
+* [Technical Writing Courses](https://developers.google.com/tech-writing/overview) - This learning collection consists of courses and other resources from Google, that are meant to help you with technical documentation. Master the fundamentals of document planning and authoring. 
+
+---
+
+This artiele is also pubshed in the HackMD platform and can be accessed from the link https://hackmd.io/@5nzOYLvzRjiFLWiQ_OYhUg/BkLS3_Dtd
+

@@ -24,7 +24,7 @@ A collection of software engineering tips that I learn every day.
 
 ### technical_writing
 
-- [How to begin technical writing   til (today i learned) format](technical_writing/How to Begin Technical Writing - TIL (Today I Learned) format.md)
+- [How to begin technical writing](technical_writing/TIL_format.md)
 
 ### terminal
 

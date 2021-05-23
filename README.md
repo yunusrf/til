@@ -24,6 +24,7 @@ A collection of software engineering tips that I learn every day.
 
 - [Today I Learned](meta/today-i-learned.md)
 - [Test1](meta/test1.md)
+- [Test2](meta/test2.md)
 
 ### terminal
 

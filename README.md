@@ -4,7 +4,7 @@ A collection of software engineering tips that I learn every day.
 
 ### macos
 
-- [Enabling_developer_tools_in_safari_20210523111444](macos/enabling_developer_tools_in_safari.md)
+- [Enabling_developer_tools_in_safari](macos/enabling_developer_tools_in_safari.md)
 - [One Button Do Not Disturb](macos/one-button-do-not-disturb.md)
 
 ### meta

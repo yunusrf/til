@@ -22,6 +22,10 @@ A collection of software engineering tips that I learn every day.
 - [Test1](meta/test1.md)
 - [Test2](meta/test2.md)
 
+### technical_writing
+
+- [How to begin technical writing   til (today i learned) format](technical_writing/How to Begin Technical Writing - TIL (Today I Learned) format.md)
+
 ### terminal
 
 - [Tmux True Color](terminal/tmux-true-color.md)

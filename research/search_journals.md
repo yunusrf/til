@@ -1,6 +1,6 @@
 # Searching journal in Scopus
 
-Use the journal search page of Scopus from the following link :
+Use the journal search page of Scopus from the following link [https://www.scimagojr.com/journalsearch.php](https://www.scimagojr.com/journalsearch.php):
 
 
 ---
@@ -10,7 +10,7 @@ Use the journal search page of Scopus from the following link :
 
 # Web of Science (ISI) Master Journal List - Search 
 
-Use the master journal list search page of Web of Science (ISI) from the following link :
+Use the master journal list search page of Web of Science (ISI) from the following link [https://mjl.clarivate.com/search-results](https://mjl.clarivate.com/search-results):
 
 
 ![Web of Science (ISI) Journal Search Link](../images/wos.png)

@@ -3,8 +3,6 @@
 Use the journal search page of Scopus from the following link :
 
 
-Normally, Safari's developer tools are not displayed by default. You must check the box labeled "Show Develop menu in menu bar" in the _Advanced_ section of _Preferences_ to enable them.
-
 ---
 
 ![Scopus Journal Search Link](../images/scopus.png)

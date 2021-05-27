@@ -7,7 +7,7 @@ Normally, Safari's developer tools are not displayed by default. You must check 
 
 ---
 
-![Scopus Journal Search Link](../images/Scopus Journal Search Link.png)
+![Scopus Journal Search Link](../images/scopus.png)
 
 
 # Web of Science (ISI) Master Journal List - Search 

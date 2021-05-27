@@ -15,9 +15,9 @@ Normally, Safari's developer tools are not displayed by default. You must check 
 Use the master journal list search page of Web of Science (ISI) from the following link :
 
 
-![Web of Science (ISI) Journal Search Link](../images/WOS Journal Search Link.png)
+![Web of Science (ISI) Journal Search Link](../images/wos.png)
 
 <!-- ![Advanced Safari Preferences Pane](https://i.imgur.com/TFhUXoA.png) -->
 
 ---
-[source](https://support.apple.com/guide/safari/use-the-developer-tools-in-the-develop-menu-sfri20948/mac)
+<!-- [source](https://support.apple.com/guide/safari/use-the-developer-tools-in-the-develop-menu-sfri20948/mac) -->

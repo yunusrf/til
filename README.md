@@ -22,6 +22,10 @@ A collection of software engineering tips that I learn every day.
 - [Test1](meta/test1.md)
 - [Test2](meta/test2.md)
 
+### research
+
+- [Search_journals](research/search_journals.md)
+
 ### technical_writing
 
 - [Til_format](technical_writing/TIL_format.md)
